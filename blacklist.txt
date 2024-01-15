@@ -1,5 +1,7 @@
 # =====================================================
 # Title: Hosts contributed by Mukesh Kumar Chaurasiya
+# Balcklist Domains
+
 ssl.gstatic.com
 c.amazon-adsystem.com
 winatp-gw-eus.microsoft.com
