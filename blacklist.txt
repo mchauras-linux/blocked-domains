@@ -6,4 +6,4 @@ c.amazon-adsystem.com
 winatp-gw-eus.microsoft.com
 wdatp-prd-eus2-10.eastus2.cloudapp.azure.com
 mps-mde-prd-eus2-14.eastus2.cloudapp.azure.com
-api.insight.synology.com
+# api.insight.synology.com
